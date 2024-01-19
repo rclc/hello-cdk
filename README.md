@@ -1,7 +1,8 @@
 
 # Welcome to your CDK Python project!
 
-This is a blank project for CDK development with Python.
+This is a project for CDK development with Python.
+Specifically, this project demonstrates how to use AWS S3 buckets to host a static website 
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
